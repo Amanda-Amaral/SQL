@@ -1,2 +1,1 @@
-# SQL
-sql practices
+# br-sqlite-project
